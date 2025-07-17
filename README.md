@@ -15,6 +15,6 @@ This is a simple and interactive Student Registration Form built using **HTML**,
 
 - HTML5
 - Tailwind CSS
-- JavaScript (Vanilla)
+- JavaScript 
 
-## Live Website https://github.com/your-username/student-registration-form.git
+## Live Website https://hajeeaboothahir.github.io/Student-Form/
